@@ -1,6 +1,7 @@
 ---
 :lessons:
-- :id: 12624
-  :course_id: 343
-  :canvas_url: https://learning.flatironschool.com/courses/343/pages/dsc-regression-model-eval-recap-v2-1
+  :type: page
+- :id: 26607
+  :course_id: 466
+  :canvas_url: https://my.learn.co/courses/466/pages/multiple-linear-regression-recap
   :type: page
