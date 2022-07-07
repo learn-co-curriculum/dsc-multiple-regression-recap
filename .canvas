@@ -1,7 +1,10 @@
 ---
 :lessons:
-  :type: page
 - :id: 26607
   :course_id: 466
   :canvas_url: https://my.learn.co/courses/466/pages/multiple-linear-regression-recap
+  :type: page
+- :id: 200702
+  :course_id: 5825
+  :canvas_url: https://learning.flatironschool.com/courses/5825/pages/multiple-linear-regression-recap
   :type: page
